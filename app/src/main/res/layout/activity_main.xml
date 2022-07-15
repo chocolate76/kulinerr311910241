@@ -12,10 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        app:menu="@menu/menu_bawah"
         app:itemBackground="@android:color/holo_blue_bright"
-        />
-
-
+        app:menu="@menu/menu_bawah" />
 
 </RelativeLayout>
